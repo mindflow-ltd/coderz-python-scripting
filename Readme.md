@@ -1,11 +1,13 @@
+
+
 # Project usage guide
-*before following the guide, please make sure you have python3 installed.
+* Before following the guide, please make sure you have python3 installed.
 
 
 
 ####virtual enviroment setup
-some project dependencies are required in order to run the code, it is easiest to set everything up using the python venv package.
-if you are familiar with python and wish to set up the dependencies some other way, please skip this part.
+Some project dependencies are required in order to run the code, it is easiest to set everything up using the python venv package.
+If you are familiar with python and wish to set up the dependencies some other way, please skip this part.
 
 Open a terminal and install venv by typing: `apt-get install python3-venv`
 
@@ -13,7 +15,7 @@ Go to the project's main directory and create a virtual env by typing: `python3 
 
 Activate the virtual env by running: `source env/bin/activate`
 
-Install the project's dependencies by typying: `pip3 install -r requirements.txt`
+Install the project's dependencies by typing: `pip3 install -r requirements.txt`
 
 You are now ready to run the code.
 
