@@ -6,6 +6,7 @@
 
 
 ####virtual enviroment setup
+
 Some project dependencies are required in order to run the code, it is easiest to set everything up using the python venv package.
 If you are familiar with python and wish to set up the dependencies some other way, please skip this part.
 
