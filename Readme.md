@@ -25,7 +25,7 @@ You are now ready to run the code.
 
 ### Running the code
 
-Open a browser and enter the coderz website on https://multi.gocoderz.com, after logging in, go to UnityTest -> Games -> Demo Game. once loading is finished, the second icon from the right on the top left panel is a screen with wifi signal, click on it and copy the authentication token.
+Go to https://multi.gocoderz.com, login and go to UnityTest -> Games -> Demo Game. 
+Once loading is finished, the second icon from the right on the top left panel is a screen with wifi signal, click on it and copy the authentication token.
 
-at the python project, on either index.py or one of the scripts in the examples folder, replace the default token with the one you copied
-, and then run the code. you will now see the robot following your commands on the coderz website.
+At the python project, on either index.py or one of the scripts in the examples folder, replace the default token with the one you copied, and then run the code. you will now see the robot following your commands on the coderz website.
