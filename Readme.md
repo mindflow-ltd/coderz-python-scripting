@@ -5,7 +5,7 @@
 
 
 
-####virtual enviroment setup
+### Virtual enviroment setup
 
 Some project dependencies are required in order to run the code, it is easiest to set everything up using the python venv package.
 If you are familiar with python and wish to set up the dependencies some other way, please skip this part.
@@ -22,7 +22,9 @@ You are now ready to run the code.
 
 *when done working, deactivate the virtual env by simply typing `deactivate`
 
-#### run the code.
+
+### Running the code
+
 Open a browser and enter the coderz website on https://multi.gocoderz.com, after logging in, go to UnityTest -> Games -> Demo Game. once loading is finished, the second icon from the right on the top left panel is a screen with wifi signal, click on it and copy the authentication token.
 
 at the python project, on either index.py or one of the scripts in the examples folder, replace the default token with the one you copied
