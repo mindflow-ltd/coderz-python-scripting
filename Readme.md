@@ -1,8 +1,7 @@
 
 
-# Project usage guide
+# Usage
 * Before following the guide, please make sure you have python3 installed.
-
 
 
 ### Virtual enviroment setup
